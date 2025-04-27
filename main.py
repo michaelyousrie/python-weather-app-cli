@@ -85,7 +85,7 @@ def main(city):
     #endif
 #enddef
 
-# Example usage
+
 if __name__ == "__main__":
     city = input("Enter city name: ")
     main(city)
