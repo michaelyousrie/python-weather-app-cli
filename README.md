@@ -22,3 +22,5 @@ Before running the application, make sure you have Python installed on your syst
 ```bash
 pip install requests
 ```
+
+Then make sure to copy `.env.example` to a `.env` file and add your API key there.
