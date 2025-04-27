@@ -1,4 +1,4 @@
-# Weather Fetcher & File Sorter
+# Weather Fetcher
 
 A Python application that fetches the current weather data for a specified city from the OpenWeatherMap API, processes it, and saves the results in a JSON file, grouped by city. If the file already exists, the new data is appended to the existing data.
 
